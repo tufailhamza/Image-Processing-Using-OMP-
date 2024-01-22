@@ -1,6 +1,3 @@
-Certainly! It looks like your README file could use some formatting improvements and additional information. Here's a revised version:
-
----
 
 # Image Processing Using OpenMP
 
