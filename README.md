@@ -60,11 +60,18 @@ gcc -o parallelInvert 01_parallelImageInversion.c -lfreeimage -fopenmp
 
 Here are some screenshots showcasing the output of the programs:
 
-- [Screenshot 1](https://github.com/tufailhamza/Image-Processing-Using-OMP-/assets/83925732/e9978efb-2967-4ec9-87da-e38f2ece2451)
-- [Screenshot 2](https://github.com/tufailhamza/Image-Processing-Using-OMP-/assets/83925732/755da73a-1d00-4108-aea1-cfb35e8992dd)
-- [Screenshot 3](https://github.com/tufailhamza/Image-Processing-Using-OMP-/assets/83925732/358a9818-d231-4b25-8dc0-b3c64e72c936)
-- [Screenshot 4](https://github.com/tufailhamza/Image-Processing-Using-OMP-/assets/83925732/e84493b2-15ea-4ac0-94aa-653e3518b9c9)
-- [Screenshot 5](https://github.com/tufailhamza/Image-Processing-Using-OMP-/assets/83925732/4beec9e4-4178-4ce7-83ba-aea12842d925)
+![image](https://github.com/tufailhamza/Image-Processing-Using-OMP-/assets/83925732/d354e326-90e7-452f-8d8f-a9e078187269)
+
+![Screenshot 2024-01-23 003931](https://github.com/tufailhamza/Image-Processing-Using-OMP-/assets/83925732/e9978efb-2967-4ec9-87da-e38f2ece2451)
+![image](https://github.com/tufailhamza/Image-Processing-Using-OMP-/assets/83925732/755da73a-1d00-4108-aea1-cfb35e8992dd)
+
+
+![image](https://github.com/tufailhamza/Image-Processing-Using-OMP-/assets/83925732/358a9818-d231-4b25-8dc0-b3c64e72c936)
+
+![image](https://github.com/tufailhamza/Image-Processing-Using-OMP-/assets/83925732/e84493b2-15ea-4ac0-94aa-653e3518b9c9)
+
+
+![image](https://github.com/tufailhamza/Image-Processing-Using-OMP-/assets/83925732/4beec9e4-4178-4ce7-83ba-aea12842d925)
 
 Feel free to explore the repository and use the provided programs for your image processing tasks. If you encounter any issues or have questions, please refer to the documentation or open an issue.
 
